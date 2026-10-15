@@ -1,8 +1,10 @@
 {
   "id": "theme-slate",
+  "categories": ["Themes"],
   "name": "Slate",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "minAppVersion": "2.4.3",
   "description": "Cool blue-gray dark theme.",
-  "author": "Tokyo",
+  "author": "Anthony Reimche",
   "main": "index.js"
 }
